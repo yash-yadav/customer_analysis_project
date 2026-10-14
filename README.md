@@ -138,7 +138,7 @@ Place the dataset in the project's `data/` directory and update the file path in
 ```python
 import pandas as pd
 
-df = pd.read_csv("data/dataset.csv")
+df = pd.read_csv("customer_shoping_behavior.csv")
 
 print(df.head())
 print(df.info())
@@ -161,35 +161,6 @@ Update database connection details and table names according to your setup.
 
 Open the `.pbix` file in Power BI Desktop. If prompted, update the data source and refresh the dataset.
 
-## 9. Repository Structure
-
-```text
-data-analytics-project/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── sql/
-│   └── business_queries.sql
-│
-├── dashboard/
-│   └── dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-├── reports/
-│   └── project_report.pdf
-│
-├── presentation/
-│   └── project_presentation.pdf
-│
-├── requirements.txt
-└── README.md
-```
 
 ## 10. Conclusion
 
