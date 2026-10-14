@@ -86,9 +86,10 @@ The Power BI dashboard provides an interactive view of the project's key perform
 
 Add a screenshot of your Power BI dashboard here.
 
-`![Power BI Dashboard](images/dashboard.png)`
+<img width="890" height="494" alt="Screenshot 2026-10-14 225642" src="https://github.com/user-attachments/assets/8f37140b-69d8-402d-a3fa-f3cd5017e400" />
 
-**Power BI File:** [Add your .pbix file or report link]
+
+
 
 ## 6. Key Results & Insights
 
