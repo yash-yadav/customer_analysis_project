@@ -162,17 +162,11 @@ Update database connection details and table names according to your setup.
 Open the `.pbix` file in Power BI Desktop. If prompted, update the data source and refresh the dataset.
 
 
-## 10. Conclusion
+## 9. Conclusion
 
 This project demonstrates practical data analytics skills across data preparation, exploratory analysis, SQL-based business analysis, dashboard development, and insight communication.
 
 It showcases the ability to transform raw data into meaningful information that can support data-driven business decisions.
 
-## 11. Author
 
-**[Your Name]**
-
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Link, if available]
 
