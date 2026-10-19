@@ -160,8 +160,21 @@ Update database connection details and table names according to your setup.
 
 Open the `.pbix` file in Power BI Desktop. If prompted, update the data source and refresh the dataset.
 
+9. Repository Structure
 
-## 9. Conclusion
+customer_analysis_project/
+│
+├── Power Bi/        # Contains the Power BI dashboard file (.pbix)
+├── Python/          # Contains the Jupyter Notebook (.ipynb) for EDA and data cleaning
+├── SQL/             # Contains the SQL scripts (.sql) for business analysis
+├── data/            # Contains the raw dataset (.csv)
+├── Reports/         # Contains the final project report and presentation (PDFs)
+│
+├── LICENSE          # Open-source license
+└── README.md        # Project documentation (this file)
+
+
+## 10. Conclusion
 
 This project demonstrates practical data analytics skills across data preparation, exploratory analysis, SQL-based business analysis, dashboard development, and insight communication.
 
