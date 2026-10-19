@@ -89,7 +89,6 @@ The Power BI dashboard provides an interactive view of the project's key perform
 
 
 
-
 ## 6. Key Results & Insights
 
 The analysis focuses on identifying meaningful patterns and converting them into actionable insights.
@@ -160,8 +159,9 @@ Update database connection details and table names according to your setup.
 
 Open the `.pbix` file in Power BI Desktop. If prompted, update the data source and refresh the dataset.
 
-9. Repository Structure
+## 9. Repository Structure
 
+```text
 customer_analysis_project/
 │
 ├── Power Bi/        # Contains the Power BI dashboard file (.pbix)
@@ -172,13 +172,10 @@ customer_analysis_project/
 │
 ├── LICENSE          # Open-source license
 └── README.md        # Project documentation (this file)
-
+```
 
 ## 10. Conclusion
 
 This project demonstrates practical data analytics skills across data preparation, exploratory analysis, SQL-based business analysis, dashboard development, and insight communication.
 
 It showcases the ability to transform raw data into meaningful information that can support data-driven business decisions.
-
-
-
